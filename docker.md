@@ -5,4 +5,4 @@
 
 ## Cac cau lenh pho bien trong docker
 
-+ sudo docker pull image_name       ## Pull một image từ Docker Hub
++ sudo docker pull image_name       <Pull một image từ Docker Hub
